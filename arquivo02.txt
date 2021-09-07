@@ -5,3 +5,5 @@ testando de novo
 
 a ultima vez
 versão 02
+
+editando o arquivo da ramificação pelo git
